@@ -1,3 +1,2 @@
-# react-projetct-course
 ## Em andamento
-https://hatatori.github.io/react-projetct-course/
+Postarei todos aqui ao concluir o projeto offline
